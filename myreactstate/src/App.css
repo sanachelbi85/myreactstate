@@ -1,0 +1,33 @@
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 12px;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1MW_YD3lpgnjga5F2NaM_IeDQ_S5CkwoBg&usqp=CAU") ;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 700px;
+
+  
+}
+.cart{
+  margin-top: 20px;
+}
+.btn{
+ color:white;
+ width:100px;
+ height:50px;
+ background-color: orange;
+ border:none;
+}
+
+.but{
+  background-color: brown;
+  width:100px;
+  height:50px;
+  border:none;
+}
